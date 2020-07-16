@@ -1,0 +1,5 @@
+# SBSPS-Challenge-390-PREDICTING-THE-ENERGY-OUTPUT-OF-WIND-TURBINE-BASED-ON-WEATHER-CONDITION
+
+Wind energy is playing a critical role in the establishment of an environmentally sustainable low carbon economy. Traditionally, DC machines, synchronous machines and squirrel-cage induction machines have been used for small scale power generation. For medium and large wind turbines (WTs), the doubly-fed induction generator (DFIG) is currently the dominant technology while permanent-magnet (PM), switched reluctance (SR) and high temperature superconducting (HTS) generators are all extensively researched and developed over the years. 
+
+Currently, wind power is widely recognized as a main feasible source of renewables which can be utilized economically in large quantity.in United Kingdom the usable offshore wind energy alone is enough to provide three times more than the required electricity consumption in the country, given sufficient support. However, wind power fluctuates by its nature and such applications demand high reliability and high availability while the market is still looking to reduce weight, complexity and operational costs. 
